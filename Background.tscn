@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GodotPlatformerAssets/431168-Terraria-PC-gaming-video-game-art-video-games.png" type="Texture" id=1]
+
+[node name="Background" type="Sprite"]
+position = Vector2( 484, 293.5 )
+scale = Vector2( 0.84757, 0.538874 )
+texture = ExtResource( 1 )
